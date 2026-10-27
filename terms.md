@@ -19,7 +19,7 @@ You must be old enough to use Discord according to the laws of your country (at 
 * **Virtual Property:** All in-game currencies (coins, shards, Foxfire), cards, titles, and items are purely virtual objects created for gameplay purposes. They hold no real-world monetary value, cannot be redeemed or exchanged for legal currency, and remain the property of the service. You are granted a personal, limited, revocable license to use these items while playing.
 * **Game Balancing:** We continually balance and update the game. Drop rates, card values, stats, and features may change over time. While we aim to detail major adjustments in patch notes, we reserve the right to alter features without prior notice.
 * **Data Corrections:** In cases of severe technical bugs, exploits, or system rollbacks, we reserve the right to correct or reset distorted game data. We will make reasonable efforts to minimize loss to unaffected players.
-* **Intellectual Property:** All character art, names, and images belong to their respective copyright holders and are used within a non-commercial fan context. Kizuna does not claim ownership over third-party media. If you are a copyright holder and wish to request the removal of specific assets, please see Section 7 for DMCA/Takedown contact details.
+* **Intellectual Property:** All character art, names, and images belong to their respective copyright holders and are used within a non-commercial fan context. Kizuna does not claim ownership over third-party media. If you are a copyright holder and wish to request the removal of specific assets, please see Section 8 for DMCA/Takedown contact details.
 
 ---
 
@@ -36,7 +36,17 @@ When using Kizuna, you agree **NOT** to:
 
 ---
 
-### 4. Violations & Enforcement
+### 4. Adding Kizuna to Your Server
+* **Who can add it:** Anyone with the Manage Server permission can add Kizuna to a Discord server and set it up with `/kizuna setup`. Server managers choose which channels Kizuna uses, whether it posts news from Kizuna (and who that news pings), and which extras are on, such as the welcome line and Kizuna's moderation tools. They can change these at any time with `/kizuna settings`.
+* **Servers run their server, we run the game:** Server staff cannot give out currency or cards, or change drop rates, prices, events or rewards. Only Kizuna's developer changes the game.
+* **One schedule for everyone:** Arena seasons and limited banners run on one schedule shared by every server.
+* **Progress stays in its server:** Your cards, currencies and other progress in one server do not carry over to another server.
+* **Moderation tools:** Kizuna's moderation tools only act when a server's staff use them, and that server's staff are responsible for how they use them.
+* **Removing Kizuna:** If Kizuna is removed from a server, that server's data is kept for 30 days in case it is added back, then deleted, as described in the [Privacy Policy](privacy).
+
+---
+
+### 5. Violations & Enforcement
 If you break these rules, we reserve the right to apply sanctions based on severity, including:
 1. Removal of illegally obtained assets or currency.
 2. Account resets or rollback of progress.
@@ -44,19 +54,19 @@ If you break these rules, we reserve the right to apply sanctions based on sever
 
 ---
 
-### 5. Disclaimer & Limitation of Liability
+### 6. Disclaimer & Limitation of Liability
 Kizuna is provided on an **"AS IS"** and **"AS AVAILABLE"** basis. We do not guarantee uninterrupted uptime, bug-free operation, or permanent availability of the service.
 
 To the maximum extent permitted by applicable law, we are not liable for lost game progress, lost items, or any indirect damages resulting from your use or inability to use Kizuna. Nothing in these terms takes away rights you have under the law of your country that cannot be waived.
 
 ---
 
-### 6. Changes to Terms
+### 7. Changes to Terms
 We reserve the right to update these terms as the game evolves (including adding provisions for paid features if introduced in the future). The date at the top indicates when changes were last made. Major updates will be announced in our official support server. Continued use of Kizuna following an update constitutes acceptance of the modified terms.
 
 ---
 
-### 7. Contact
+### 8. Contact
 For support, bug reports, DMCA requests, or general inquiries:
 * **Discord Support Server:** [discord.gg/wW4Ur4ugM](https://discord.gg/wW4Ur4ugM)
 * **Email:** [kizuna.official.support@gmail.com](mailto:kizuna.official.support@gmail.com)

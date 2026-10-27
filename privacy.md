@@ -16,8 +16,8 @@ To operate the game, Kizuna stores the following limited information:
 * **Game Progress & Inventory:** Your cards, card copies, levels, Ascension, Bond, currencies (coins, shards, Foxfire), active teams, quests, achievements, titles, dungeon/arena stats, wishlists, market listings, auction bids, and notification preferences.
 * **Activity & Transaction History:** Logs of card pulls, trades (sender, recipient, items swapped), and currency changes. This data is used solely to resolve bugs, restore lost items, prevent cheating/alt-farming, and process support requests.
 * **Vote Data:** When you vote for Kizuna on top.gg, top.gg sends us your Discord User ID and timestamp so we can deliver your in-game vote reward.
-* **Server Moderation Logs:** If server staff use Kizuna's moderation suite, warning notes, reasons, moderator User IDs, and timestamps are stored for that specific server.
-* **Server Settings:** Channel IDs, role IDs configured for bot commands, and message IDs posted by the bot for auto-updating menus.
+* **Server Moderation Logs:** If server staff turn on and use Kizuna's moderation tools, warning notes, reasons, moderator User IDs, and timestamps are stored for that specific server.
+* **Server Settings:** The choices a server's managers make in `/kizuna setup` and `/kizuna settings` (which channels Kizuna uses, whether it posts news and who that news pings, and which extras are on), plus channel IDs, role IDs, and the IDs of messages the bot posts for auto-updating menus.
 
 *Kizuna does NOT offer real-money purchases and does NOT collect or store financial details, payment cards, real names, IP addresses, or passwords.*
 
