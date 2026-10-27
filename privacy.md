@@ -52,7 +52,8 @@ Your data is shared only with services necessary to operate the bot:
 ---
 
 ### 5. Data Retention & Backups
-* **Active Progress:** Your game data is retained as long as Kizuna is operational, allowing you to resume playing anytime.
+* **Active Progress:** Your game data is retained as long as Kizuna is operational and in that server, allowing you to resume playing anytime.
+* **Servers That Remove Kizuna:** If Kizuna is removed from a server, all data for that server is kept for 30 days in case it is added back, then deleted automatically.
 * **Database Backups:** Automated database backups are created regularly for disaster recovery, kept for up to 14 days, and then deleted automatically.
 * **Error Logs:** System error reports containing basic diagnostic info (User ID, Server ID, and command triggered) are posted to a private, staff-only log channel to debug technical issues.
 
@@ -63,7 +64,7 @@ Depending on your region (including EU/UK GDPR and California CCPA rights), you 
 
 * **Data Access:** You can request a copy of the personal data Kizuna holds about you at any time.
 * **Data Deletion:** You can delete your data in a server by using the `$deletedata` (or `/deletedata`) command in that server. It permanently removes your profile progress, inventory, currencies, and activity history in that server; your data in other servers is not affected. To delete your data in every server at once, contact us in the support server or via email.
-* **Server Data Removal:** Server owners may request the complete removal of all bot data associated with their Server ID by contacting support.
+* **Server Data Removal:** Removing Kizuna from a server deletes all data for that server automatically after 30 days. Server owners may also request its removal sooner by contacting support.
 * **Notifications:** You can disable DMs and pings at any time using in-game settings (`$notifications`) or by adjusting your Discord privacy settings.
 
 ---
