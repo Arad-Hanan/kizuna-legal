@@ -47,10 +47,11 @@ When using Kizuna, you agree **NOT** to:
 ---
 
 ### 5. Violations & Enforcement
-If you break these rules, we reserve the right to apply sanctions based on severity, including:
-1. Removal of illegally obtained assets or currency.
-2. Account resets or rollback of progress.
-3. Temporary or permanent ban from using Kizuna across all Discord servers.
+If you break these rules, we or the staff of the server where it happened may, based on severity:
+1. Remove illegally obtained assets or currency.
+2. Reset or roll back your progress in that server.
+
+A server's staff may also remove you from their server under their own rules.
 
 ---
 
